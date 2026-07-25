@@ -106,7 +106,7 @@ export default function Navbar() {
             <img src="Public/Logo.png" className="" alt="R" />
           </div> */}
           <img
-            src="Public/Logo1.png"
+            src="/Logo1.png"
             alt="REGUL"
             className="theme-logo h-18 relative left-7"
           />
