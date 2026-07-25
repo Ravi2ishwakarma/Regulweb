@@ -305,7 +305,7 @@ export default function Home() {
           </h2>
 
           <a
-            href="https://regulweb.vercel.app/contact"
+            href="/contact"
             className="mt-10 btn-theme inline-flex rounded-full bg-white px-8 py-4 font-semibold text-black transition hover:bg-blue-500 hover:text-white"
           >
             Book a Consultation
