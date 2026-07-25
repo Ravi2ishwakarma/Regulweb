@@ -106,7 +106,7 @@ export default function Navbar() {
             <img src="Public/Logo.png" className="" alt="R" />
           </div> */}
           <img
-            src="/Logo1.png"
+            src="https://kommodo.ai/i/lc9fumv2g3eVNXAqJzVz"
             alt="REGUL"
             className="theme-logo h-18 relative left-7"
           />
